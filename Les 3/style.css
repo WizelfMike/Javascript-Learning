@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(73, 144, 224);
+    color: black;
+    font-weight: bold;
+    font-family:  Courier, monospace;
+    font-size: 250%;
+}
+
+div::first-letter {
+    font-size: 200%;
+    color: rgb(123, 230, 24);
+  }
